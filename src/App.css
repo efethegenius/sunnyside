@@ -104,6 +104,7 @@
 .arrow {
   position: absolute;
   bottom: 180px;
+  display: none;
 }
 .body-info img {
   width: 100vw;
@@ -399,6 +400,7 @@
   .arrow {
     position: absolute;
     bottom: 22rem;
+    display: none;
   }
   .egg-div {
     display: grid;
